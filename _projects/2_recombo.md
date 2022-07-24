@@ -11,7 +11,7 @@ My PhD work on building a statistical physics framework for understanding how di
 
 <div class="row">
     <div class="mx-auto w-50">
-        {% include figure.html path="assets/img/sp_tree.png" title="example image" class="img-fluid rounded z-depth-0" %}
+        {% include figure.html path="assets/img/SP_tree.png" title="example image" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
