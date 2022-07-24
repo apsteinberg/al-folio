@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-07-24
 inline: true
 ---
 
-A simple inline announcement.
+New paper on recombination across the microbial pangenome published in [eLife](https://elifesciences.org/articles/78533)! Quick explainer [here](/apsteinberg/blog/2022/core_flex/).

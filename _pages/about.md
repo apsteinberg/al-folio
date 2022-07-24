@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Simons Postdoctoral Fellow of the LSRF in the <a href='https://www.kussellgroup.org/'>Kussell Group</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: LSRF_picture_cropped.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! If you've stumbled upon this page, it probably means you are interested in my research. This is a constant work in progress, but hopefully you'll walk away with some sense of what I've been up to scientifically.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a postdoctoral researcher working with [Professor Edo Kussell](https://www.kussellgroup.org/) in the Biology Department at New York University. Currently, I am very fortunate to be a [Simons Fellow](https://www.simonsfoundation.org/life-sciences/simons-postdoctoral-fellowships-in-life-sciences/) of the [Life Sciences Research Foundation](http://www.lsrf.org/). Prior to working with Edo, I spent 5+ mind-bending years doing my PhD at Caltech under the mentorship of [Rustem Ismagilov](https://ismagilovlab.caltech.edu/). My research has focused on applying biophysical approaches, both computationally and experimentally, to problems ranging from the soft matter physics of the gut to microbial recombination.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
