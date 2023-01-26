@@ -7,7 +7,7 @@ subtitle: Simons Postdoctoral Fellow of the LSRF in the <a href='https://www.kus
 profile:
   align: right
   image: LSRF_picture_cropped.jpg
-  image_cicular: false # crops the image to make it circular
+  image_cicular: true # crops the image to make it circular
   address: 
 
 news: true  # includes a list of news items

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-09
+date: 2023-01-25
 inline: true
 ---
 
-Our SARS-like coronavirus recombination paper has been accepted at PNAS! Preprint can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.26.505425v1) and code for inferring recombination rates in RNA viruses is on [GitHub](https://github.com/kussell-lab/viral-mcorr).
+Our SARS-like coronavirus recombination paper is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2206945119)! Code for inferring recombination rates in RNA viruses is on [GitHub](https://github.com/kussell-lab/viral-mcorr).

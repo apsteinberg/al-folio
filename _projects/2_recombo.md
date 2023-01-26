@@ -18,7 +18,7 @@ My PhD work on building a statistical physics framework for understanding how di
     Dendrogram of <I>Streptococcus pneumoniae</I> sequence clusters (~26,000 genomes) analyzed in our recent <a href="https://elifesciences.org/articles/78533">eLife paper</a>.
 </div>
 
-In a separate project, I have adapted the theory and computational approach of our method to measure recombination rates in RNA viruses and, particularly, SARS-like coronaviruses (preprint [here](https://www.biorxiv.org/content/10.1101/2022.08.26.505425v1) and analysis pipeline is on [GitHub](https://github.com/kussell-lab/viral-mcorr)). This method allows for the rapid analysis of hundreds of thousands of whole genome sequences. Using this technique, we have uncovered new insights into the clonal relationships of SARS-like coronavirus sequences and the recombination dynamics of SARS-like coronavirus gene pools. This new tool will allow us to better understand and predict both SARS-like coronavirus and RNA virus evolution.
+In a separate project, I have adapted the theory and computational approach of our method to measure recombination rates in RNA viruses and, particularly, SARS-like coronaviruses (paper [here](https://www.pnas.org/doi/abs/10.1073/pnas.2206945119) and analysis pipeline on [GitHub](https://github.com/kussell-lab/viral-mcorr)). This method allows for the rapid analysis of hundreds of thousands of whole genome sequences. Using this technique, we have uncovered new insights into the clonal relationships of SARS-like coronavirus sequences and the recombination dynamics of SARS-like coronavirus gene pools. This new tool will allow us to better understand and predict both SARS-like coronavirus and RNA virus evolution.
 
 <div class="row">
     <div class="mx-auto w-50">
@@ -26,5 +26,5 @@ In a separate project, I have adapted the theory and computational approach of o
     </div>
 </div>
 <div class="caption">
-    Recombination network for a set of SARS-like coronaviruses.
+    Recombination network for a set of SARS-like coronaviruses analyzed in our <a href="https://www.pnas.org/doi/10.1073/pnas.2206945119">2023 PNAS paper</a>.
 </div>
