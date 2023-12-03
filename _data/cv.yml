@@ -1,8 +1,3 @@
-- title: 
-  type: list
-  contents:
-    - <b><I>For full CV, click the pdf link in the top right corner of this page.</I></b>
-
 - title: Education
   type: time_table
   contents:
@@ -22,10 +17,34 @@
         - Thesis advisor&#x3a; Milos Dolnik
         - Thesis&#x3a; <I>Growth dynamics of Turing Patterns in the photosensitive CDIMA reaction</I>
 
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Senior Computational Biologist I
+      institution: Computational Oncology, Memorial Sloan Kettering Cancer Center
+      year: 2023 - present
+      description:
+        - Working on collaborative research efforts between Alex Kentsis' team at the Tow Center for Developmental Oncology and Sohrab Shah and Andrew McPherson's team in Computational Oncology.
+        - Developing computational methods to define the genomics, proteomics, and evolution of cancers in children and young adults.
+    - title: Postdoctoral Research Fellow
+      institution: Department of Biology, New York University
+      year: 2019 - 2023
+      description:
+        - Postdoctoral advisor&#x3a; Edo Kussell
+        - Investigated the role of homologous recombination in microbial genome evolution using bioinformatics, computational biology, and population genetics.
+        - Applied a combination of bioinformatic, computational biology, and biophysical approaches to study how microbes use diversification mechanisms (i.e., stochastic switching and recombination) to adapt to fluctuating environments.
+    - title: Graduate Research Assistant
+      institution: Division of Chemistry and Chemical Engineering, California Institute of Technology
+      year: 2013-2019
+      description:
+        - Postdoctoral advisor&#x3a; Rustem F. Ismagilov
+        - PhD thesis&#x3a; How polymers shape the physicochemical environment of the gut
+        - Studied how dietary and host-secreted polymers shape the physicochemical environment of the gut using tools from polymer physics
+
 - title: Selected Honors and Awards
   type: time_table
   contents:
-    - year: 2020-present
+    - year: 2020-2023
       items: 
         - title: LSRF Postdoctoral Fellowship
           contents: Simons Foundation Awardee of the <a href="https://lsrf.org/">Life Sciences Research Foundation</a>
@@ -46,20 +65,3 @@
         - title: Schiff Memorial Award
           contents: Awarded by the Brandeis Division of Science to one or more students showing creativity and originality in science, fine arts, or archeology (<a href="https://www.brandeis.edu/science/prizes-awards/index.html">link</a> )
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Research Fellow
-      institution: Department of Biology, New York University
-      year: 2019 - present
-      description:
-        - Postdoctoral advisor&#x3a; Edo Kussell
-        - Investigating the role of homologous recombination in microbial genome evolution using bioinformatics, computational biology, and population genetics.
-        - Applying a combination of bioinformatic, computational biology, and biophysical approaches to study how microbes use diversification mechanisms (i.e., stochastic switching and recombination) to adapt to fluctuating environments.
-    - title: Graduate Research Assistant
-      institution: Division of Chemistry and Chemical Engineering, California Institute of Technology
-      year: 2013-2019
-      description:
-        - Postdoctoral advisor&#x3a; Rustem F. Ismagilov
-        - PhD thesis&#x3a; How polymers shape the physicochemical environment of the gut
-        - Studied how dietary and host-secreted polymers shape the physicochemical environment of the gut using tools from polymer physics

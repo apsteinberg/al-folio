@@ -4,5 +4,5 @@ permalink: /cv/
 title: brief cv
 nav: true
 nav_order: 4
-cv_pdf: 20230306_APS_CV.pdf
+#cv_pdf: 20230306_APS_CV.pdf
 ---
